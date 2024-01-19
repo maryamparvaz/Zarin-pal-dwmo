@@ -1,5 +1,5 @@
 # Zarin-pal-dwmo
-- [Demo Project](https://maryamparvaz.github.io/bags-store/)
+- [Demo Project](https://zarin-pal-dwmo.vercel.app/)
 
 - Developed by Maryam Parvaz 🙎.
 
