@@ -1,7 +1,7 @@
 # Zarin-pal-dwmo
 - [Demo Project](https://zarin-pal-dwmo.vercel.app/)
 
-- Developed by Maryam Parvaz 🙎.
+- Developed by Maryam Parvaz 🙎..
 
 - Created - 2023-10-13.
 
